@@ -35,8 +35,8 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <p>Built with ReactJS, SwiperJS & EmailJS</p>
-        <small>&copy; George Udonte 2023. All rights reserved</small>
+        <p>Built with ReactJS for DX Mentorship</p>
+        <small>&copy; George Udonte 2024. All rights reserved</small>
       </div>
     </footer>
   );
